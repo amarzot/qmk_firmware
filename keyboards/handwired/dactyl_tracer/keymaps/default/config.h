@@ -21,3 +21,4 @@
 #define TAPPING_TERM    200
 
 #define MASTER_RIGHT
+#define SPLIT_USB_DETECT
